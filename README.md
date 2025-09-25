@@ -110,8 +110,8 @@ java -ea -cp src/main/java edu.ccrm.CCRMApplication
 edu.ccrm/
 ├── CCRMApplication.java (Main class)
 ├── cli/ (Console interface)
-├── domain/ (Entity classes)
-│ ├── Person.java (Abstract base class)
+├── domain/ (Entity classes)│
+├── Person.java (Abstract base class)
 │ ├── Student.java (Student entity)
 │ ├── Instructor.java (Instructor entity)
 │ ├── Course.java (Course entity with Builder)

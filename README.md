@@ -261,6 +261,15 @@ Sample CSV files are provided in the `test-data/` folder:
 - **Java Version**: Requires JDK 17+ for modern language features
 - **Memory**: Recommended 512MB heap size for large datasets
 
+## 📸 Screenshots
+
+Screenshots demonstrating the application are available in the ⁠ screenshots/ ⁠ folder:
+•⁠  ⁠Java installation verification
+•⁠  ⁠Eclipse project setup
+•⁠  ⁠Application menu and operations
+•⁠  ⁠File export and backup structure
+
+
 ## 🤝 Academic Integrity
 
 This project represents original work demonstrating comprehensive Java SE concepts. All external references and inspirations are acknowledged in the implementation comments.
